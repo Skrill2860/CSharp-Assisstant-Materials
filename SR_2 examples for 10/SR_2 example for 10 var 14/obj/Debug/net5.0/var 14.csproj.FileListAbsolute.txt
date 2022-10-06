@@ -1,0 +1,16 @@
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\bin\Debug\net5.0\var 14.exe
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\bin\Debug\net5.0\var 14.deps.json
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\bin\Debug\net5.0\var 14.runtimeconfig.json
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\bin\Debug\net5.0\var 14.runtimeconfig.dev.json
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\bin\Debug\net5.0\var 14.dll
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\bin\Debug\net5.0\ref\var 14.dll
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\bin\Debug\net5.0\var 14.pdb
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\obj\Debug\net5.0\var 14.csproj.AssemblyReference.cache
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\obj\Debug\net5.0\var 14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\obj\Debug\net5.0\var 14.AssemblyInfoInputs.cache
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\obj\Debug\net5.0\var 14.AssemblyInfo.cs
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\obj\Debug\net5.0\var 14.csproj.CoreCompileInputs.cache
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\obj\Debug\net5.0\var 14.dll
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\obj\Debug\net5.0\ref\var 14.dll
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\obj\Debug\net5.0\var 14.pdb
+D:\Учеба\C#_assist\SR_1 examples for 10\SR_2 example for 10 var 14\obj\Debug\net5.0\var 14.genruntimeconfig.cache
